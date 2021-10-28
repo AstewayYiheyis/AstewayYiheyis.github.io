@@ -107,8 +107,11 @@ h1{
     width: 200;
     padding: 10pt;
     font: 8pt Arial, sans-serif;
-    font-weight: bold;
     line-height: 10pt;
+}
+
+#overall-content #right-section dl dt{
+    font-weight: bold;
 }
 
 #overall-content #right-section dl dd{
