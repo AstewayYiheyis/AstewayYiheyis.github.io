@@ -14,7 +14,7 @@ h1{
 
 dt {
     color: yellow;
-    font-style: bold;
+    font-weight: bold;
 }
 
 li a{
@@ -35,7 +35,7 @@ p::first-letter{
     font-size: 1.5em;
 }
 
-a img{
+#mood a img{
     height: 200px;
     width: 300px;
 }
