@@ -3,7 +3,7 @@ function calcTip() {
     let subtotal = document.getElementById("subtotal").value;
     let tipRate = document.getElementById("tip").value/100;
     let tip = tipRate * subtotal;
-    let total = parseInt(subtotal) + parseInt(tip);
+    let total = parseFloat(subtotal) + parseFloat(tip);
 
     document.getElementById("total").innerHTML = total;
 }
