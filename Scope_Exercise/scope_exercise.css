@@ -8,6 +8,8 @@ h1{
     font-style: oblique;
     font-weight: bolder;
     color:black;
+    border-radius: 10pt;
+    border: solid brown;
 }
 
 #list  p {
