@@ -1,19 +1,19 @@
 window.onload = function () {
-    let screen = document.getElementById('text-area');
-    let contentCtl = document.getElementById('animation');
-    let motionCtlStart = document.getElementById('start');
-    let motionCtlStop = document.getElementById('stop');
-    let sizeCtl = document.getElementById('fontsize');
-    let turboCtl = document.getElementById('turbo');
+    let screen = document.getElementById("text-area");
+    let contentCtl = document.getElementById("animation");
+    let motionCtlStart = document.getElementById("start");
+    let motionCtlStop = document.getElementById("stop");
+    let sizeCtl = document.getElementById("fontsize");
+    let turboCtl = document.getElementById("turbo");
 
 
     let contentSize = {
-        'Tiny': 'tiny',
-        'Small': 'small',
-        'Medium': 'medium',
-        'Large': 'large',
-        'Extra Large': 'extra-large',
-        'XXL': 'xxl'
+        "Tiny": "tiny",
+        "Small": "small",
+        "Medium": "medium",
+        "Large": "large",
+        "Extra Large": "extra-large",
+        "XXL": "xxl"
     }
 
     const DEFAULT_SPEED = 250;
@@ -23,7 +23,7 @@ window.onload = function () {
 
     var timer = null;
     var counter = 0;
-    var animation = ANIMATIONS['blank'];
+    var animation = ANIMATIONS["blank"];
 
     var animate = function (speed) {
         if (animation.length > 0) {
@@ -66,7 +66,9 @@ window.onload = function () {
         motionCtlStop.disabled = false;
         this.disabled = true;
 
-        if (timer !== null) return;
+        if (timer !== null){
+            return;
+        } 
         animate(intSpeed);
     };
 
@@ -81,7 +83,9 @@ window.onload = function () {
     turboCtl.onchange = function () {
 
         let speed = DEFAULT_SPEED;
-        if (turboCtl.checked == true) speed = TURBO_SPEED;
+        if (turboCtl.checked == true){
+            speed = TURBO_SPEED;
+        } 
 
         if(timer != null) {
             stopAnimation();
