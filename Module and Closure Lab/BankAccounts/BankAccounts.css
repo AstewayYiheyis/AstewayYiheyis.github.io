@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+
+#form{
+    border: 8px solid rgb(39, 35, 30);
+    background-color: bisque;
+    padding: 15px;
+}
+
+.form-label{
+    color: darkblue;
+}
+
+textarea{
+    color: blue;
+}
+
+.form-body{
+    margin-bottom: 5px;
+}
+
+#create-account{
+    margin-bottom: 5px;
+}
