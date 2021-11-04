@@ -228,5 +228,4 @@ employee.getAddress = function(){
 
 15) Success: Hattori 
 
-16)	success
-	error
+16) success error
