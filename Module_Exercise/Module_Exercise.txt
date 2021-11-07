@@ -215,8 +215,7 @@ while local scope is only accessible inside the enclosing function.
 	}
 })();
 
-var address;
-employee.address = address;
+employee.address = "";
 employee.setAddress = function(newAddress){
 	this.address = newAdress;
 }
