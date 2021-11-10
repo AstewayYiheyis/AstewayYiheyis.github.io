@@ -31,4 +31,27 @@
 
 3) $(".third-item").prev().css("background-color", "blue");
 
-4) 
+4) $(".turkey").replaceWith("<li class='mashed-potatoes'>mashed potatoes</li>");
+
+5) <!DOCTYPE html>
+<html>
+<head>
+<script>
+$(document).ready(function(){
+//<!—INSERT YOUR JQUERY CODE HERE - - >
+$("span").parent().parent().css("color", "green");
+});
+</script>
+</head>
+<body>
+<div class="ancestors">
+ <div> (great-grandparent)
+ <ul> (grandparent)
+ <li> (direct parent)
+ <span>some text</span>
+ </li>
+ </ul>
+ </div>
+</div>
+</body>
+</html>
