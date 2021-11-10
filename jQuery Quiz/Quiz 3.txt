@@ -27,7 +27,7 @@
 </body>
 </html>
 
-2) $(".level-2").css("background-color", "red");
+2) $("ul").eq(1).children().css("background-color", "red");
 
 3) $(".third-item").prev().css("background-color", "blue");
 
