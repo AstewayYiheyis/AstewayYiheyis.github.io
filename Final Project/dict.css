@@ -1,0 +1,63 @@
+body{
+    background-color: burlywood;
+}
+
+header{
+    background-color: bisque;
+}
+h1{
+    padding: 10px;
+}
+
+#form-section{
+   background-color: beige; 
+   padding: 30px;
+}
+
+#definition{
+    background-color:aquamarine;
+    padding: 10px;
+}
+
+#loader{
+    position: relative;
+    left: 100px;
+    width: 40px;
+    height: 40px;
+    display: none;
+}
+
+#headerLogo{
+    position: relative;
+    width: 80px;
+    height: 80px; 
+    top: 35px;
+}
+
+ol{ 
+    counter-reset: item;
+    list-style-type: none;
+}
+
+li{ 
+    display: block; 
+}
+
+li:before { 
+    content: counter(item) ""; 
+    counter-increment: item;
+}
+
+button{
+    background-color:rgb(247, 182, 18);
+    color: white;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:white;
+    color: darkgoldenrod;
+}
+button:active{
+    background-color:rgb(247, 182, 18);
+    color: white;
+}
