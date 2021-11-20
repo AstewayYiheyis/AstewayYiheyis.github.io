@@ -1,9 +1,0 @@
-1) code fragement 1 and 2 are equivalent because having the index and the value(the object) matching the 
-selector and then using "e.css()" is the same as just using the keyword "this.css()" to access it.
-The third one is a bit different because it specified the index value 
-
-2) $("div").has("ul").css("color", "blue"); //find all divs on a page that include an unordered list in them, and make
-their text color be blue
-
-3) $("body").append("<div><h1>JQuery Core</h1></div>");
-
