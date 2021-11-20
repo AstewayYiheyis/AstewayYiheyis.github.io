@@ -1,0 +1,24 @@
+body{
+    background-color:#955251;
+    color: wheat;
+}
+
+a{
+    color: aliceblue;
+    font-size: 2em;
+}
+
+#top_img img{
+    border-radius: 50%;
+}
+
+li a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 40%;
+}
+
+li a:hover{
+    color: aqua;
+    font-size: 2.2em;
+}
