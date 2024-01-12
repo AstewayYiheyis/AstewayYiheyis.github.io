@@ -27,24 +27,27 @@
 
 ## Projects
 
-### Project 1: [ShippingCompanyApplication](https://github.com/AstewayYiheyis/ShippingCompanyApplication, https://github.com/AstewayYiheyis/ui, https://github.com/AstewayYiheyis/Microservices)
+### Project 1: [ShippingCompanyApplication](https://github.com/AstewayYiheyis/ShippingCompanyApplication)
 - Description: An application used for Shipping Packages by Shipping Companies to their customers. 
 - Technologies: Java, Spring Boot, React, Kafka, Redis Cache, etc.
 - [Code](https://github.com/AstewayYiheyis/ShippingCompanyApplication/tree/master/src/main/java/com/example/shippingcompanyapplication)
 
-### Project 2: [Gulit E-Commerce App](https://github.com/AstewayYiheyis/E-Commerce, https://github.com/AstewayYiheyis/Eureka-Discovery-Server, https://github.com/AstewayYiheyis/e-Commerce-Frontend)
+### Project 2: [Gulit E-Commerce App](https://github.com/AstewayYiheyis/E-Commerce)
 - Description: E-Commerce Application for buying and selling items.
 - Technologies: Java, Spring Boot, React, Eureka Service Discovery, etc.
+  
 -[Code](https://github.com/AstewayYiheyis/E-Commerce/tree/main/src/main/java/edu/miu/gulit/gulit)
 
 ### Project 3: [Clothing App](https://github.com/AstewayYiheyis/crwn-clothing)
 - Description: Web Application for clothing brands.
 - Technologies: React, JavaScript, Redux, Firebase, etc.
+  
 -[Code](https://github.com/AstewayYiheyis/crwn-clothing/tree/main/src)
 
-### Project 4: [Mini Social Media Api](https://github.com/AstewayYiheyis/comment-microservice, https://github.com/AstewayYiheyis/post-microservice, https://github.com/AstewayYiheyis/user-microservice)
+### Project 4: [Mini Social Media Api](https://github.com/AstewayYiheyis/user-microservice)
 - Description: Api for users, and their posts.
 - Technologies: Java, Spring Boot, Eureka Service Discovery, Microservices, etc.
+  
 -[Code](https://github.com/AstewayYiheyis/user-microservice/tree/main/src/main/java/com/edu/miu/eaproject/userservice)
 
 
