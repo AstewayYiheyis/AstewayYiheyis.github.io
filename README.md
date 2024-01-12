@@ -51,7 +51,7 @@
 - [Code](https://github.com/AstewayYiheyis/user-microservice/tree/main/src/main/java/com/edu/miu/eaproject/userservice)
 
 
-Get in Touch
+## Get in Touch
 
 🌐 LinkedIn: www.linkedin.com/in/asteway-yiheyis
 
