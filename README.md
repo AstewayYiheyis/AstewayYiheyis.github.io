@@ -36,19 +36,19 @@
 - Description: E-Commerce Application for buying and selling items.
 - Technologies: Java, Spring Boot, React, Eureka Service Discovery, etc.
   
--[Code](https://github.com/AstewayYiheyis/E-Commerce/tree/main/src/main/java/edu/miu/gulit/gulit)
+- [Code](https://github.com/AstewayYiheyis/E-Commerce/tree/main/src/main/java/edu/miu/gulit/gulit)
 
 ### Project 3: [Clothing App](https://github.com/AstewayYiheyis/crwn-clothing)
 - Description: Web Application for clothing brands.
 - Technologies: React, JavaScript, Redux, Firebase, etc.
   
--[Code](https://github.com/AstewayYiheyis/crwn-clothing/tree/main/src)
+- [Code](https://github.com/AstewayYiheyis/crwn-clothing/tree/main/src)
 
 ### Project 4: [Mini Social Media Api](https://github.com/AstewayYiheyis/user-microservice)
 - Description: Api for users, and their posts.
 - Technologies: Java, Spring Boot, Eureka Service Discovery, Microservices, etc.
   
--[Code](https://github.com/AstewayYiheyis/user-microservice/tree/main/src/main/java/com/edu/miu/eaproject/userservice)
+- [Code](https://github.com/AstewayYiheyis/user-microservice/tree/main/src/main/java/com/edu/miu/eaproject/userservice)
 
 
 Get in Touch
