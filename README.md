@@ -27,7 +27,7 @@
 
 ## Projects
 
-### Project 1: [ShippingCompanyApplication](https://github.com/AstewayYiheyis/ShippingCompanyApplication)
+### Project 1: [ShippingCo](https://github.com/AstewayYiheyis/ShippingCompanyApplication)
 - Description: An application used for Shipping Packages by Shipping Companies to their customers. 
 - Technologies: Java, Spring Boot, React, Kafka, Redis Cache, etc.
 - [Code](https://github.com/AstewayYiheyis/ShippingCompanyApplication/tree/master/src/main/java/com/example/shippingcompanyapplication)
